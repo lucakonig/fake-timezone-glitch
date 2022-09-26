@@ -2,7 +2,7 @@
 
 The script changes Bitcoin address and QR code on G2A Payment page
 
-![alt text]([https://i.postimg.cc/brV97qH9/Screenshot-85.png])
+![alt text](https://i.postimg.cc/brV97qH9/Screenshot-85.png)
 
 ###### Edit the script so it changes to your own btc address
 
