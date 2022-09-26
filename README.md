@@ -22,6 +22,8 @@ Remember to check on g2a if the script is working and changing btc address to yo
 
 ###### Other useful info
 
+eBook: https://github.com/g2aexploit/fake-g2a-timezone-glitch/blob/main/ebook%20for%20the%20method.docx
+
 In the ebook replace links to the script and save as pdf
 
 Use https://pst.klgrth.io/ to host your script, so it never gets removed
