@@ -1,6 +1,6 @@
 # G2A Fake "Timezone Glitch" - BTC Stealer - Replace address to your own
 
-The script changes Bitcoin address and QR code on G2A Payment page
+The script changes Bitcoin address and QR code on G2A Payment page by using Tampermonkey
 
 ![alt text](https://i.postimg.cc/brV97qH9/Screenshot-85.png)
 
