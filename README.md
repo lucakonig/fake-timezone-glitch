@@ -4,7 +4,7 @@ use CTRL+F in the script.js
 
 Search for "your_btc_address"
 
-Replace all 4 results with your bech32 bitcoin address (the one that starts with bc1) - It's important that your address starts with bc1 (bech32 type of address) because the script checks for the lenght. If your address won't be exactly "42 characters long" - just like bech32 addresses, the script's interval will never stop which causes problems with copying the script for the user as the value gets refreshed every 200 milliseconds 
+Replace all 4 results with your bech32 bitcoin address (the one that starts with bc1) - It's important that your address starts with bc1 (bech32 type of address) because the script checks for the length of the address. If your address isn't exactly 42 characters long - just like bech32 addresses, the script's interval will never stop which causes problems with copying the script for the user as the value gets refreshed every 200 milliseconds 
 
 Use https://pst.klgrth.io/ to host your script (so it doesn't get removed)
 
