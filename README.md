@@ -14,6 +14,8 @@ use CTRL+F
 
 Search for "your_btc_address"
 
+**There are 4x "your_btc_address" to replace in the script**
+
 ![There will be 4 results that u have to change to your bitcoin address](https://i.imgur.com/eqXS76z.png)
 
 Replace all 4 results with your bech32 bitcoin address (the one that starts with bc1) - It's important that your address starts with bc1 (bech32 type of address) because the script checks for the length of the address. If your address isn't exactly 42 characters long - just like bech32 addresses, the script's interval will never stop which causes problems with copying the script for the user as the value gets refreshed every 200 milliseconds 
