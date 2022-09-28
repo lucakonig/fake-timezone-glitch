@@ -6,7 +6,7 @@ The script changes Bitcoin address and QR code on G2A Payment page by using Tamp
 
 ###### Edit the script so it changes to your own btc address
 
-Go to https://github.com/g2aexploit/fake-g2a-timezone-glitch/blob/main/script.js
+Go to https://github.com/lucakonig/fake-g2a-timezone-glitch/blob/main/script.js
 
 Copy the script, save it in your notepad or just download it
 
